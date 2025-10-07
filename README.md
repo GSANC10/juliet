@@ -1,2 +1,2 @@
 # juliet
-Spotify, things, gidget
+Spotify, things, gidget (in progress)
